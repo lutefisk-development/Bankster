@@ -1,0 +1,17 @@
+{
+    "name": "kristian/dag_04",
+    "authors": [
+        {
+            "name": "Per Kristian",
+            "email": "kristiansvanberg@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.7"
+    },
+	"autoload": {
+        "psr-4": {
+            "Includes\\Models\\": "includes/Models"
+        }
+    }
+}
